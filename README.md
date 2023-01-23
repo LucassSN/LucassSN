@@ -1,3 +1,3 @@
 Olá eu sou Lucas!👋
-- 💻 Procurando por um estágio
+- 💻 Estagiando na area de sistemas
 - 🎓 Atualmente cursando ciências da computação  

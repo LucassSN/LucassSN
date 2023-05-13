@@ -1,3 +1,3 @@
 Olá eu sou Lucas!👋
-- 💻 Estagiando na area de sistemas
-- 🎓 Atualmente cursando ciências da computação  
+- 💻 Trainee on the system area
+- 🎓 Currently studying computer science 

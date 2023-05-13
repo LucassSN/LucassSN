@@ -1,3 +1,3 @@
-Olá eu sou Lucas!👋
+Hi, i am Lucas!👋
 - 💻 Trainee on the system area
 - 🎓 Currently studying computer science 

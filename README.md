@@ -9,12 +9,47 @@
   <a href="https://www.linkedin.com/in/lucas-souza-nascimento-0b38981aa"><img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="Linkedin" height="45"></a>
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucassSN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LucassSN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucassSN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-121212?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude_Sonnet-121212?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Sonnet" />
+  <img src="https://img.shields.io/badge/Claude_Opus-121212?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Opus" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-121212?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-121212?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-121212?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<h3 align="center">📊 Statistics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucassSN&show_icons=true&theme=dark&bg_color=050505&border_color=333333&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucassSN&theme=dark&background=050505&border=333333&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9f9f9f&currStreakLabel=9f9f9f" alt="GitHub Streak" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucassSN&theme=github-dark&bg_color=050505&border=333333&color=9f9f9f&line=ffffff&point=ffffff&area=true&area_color=111111" alt="Contribution Graph" width="95%" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucassSN&icon=0&color=0)](https://visitcount.itsvg.in)

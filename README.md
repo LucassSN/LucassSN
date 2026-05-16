@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1640552435388-a54879e72b28?q=80&w=1200&h=300&fit=crop&crop=center&auto=format&sat=-100" alt="Profile Banner" width="100%" />
+</p>
+
 <h1 align="center">Hello World, I'm Lucas</h1>
 
 <p align="center">

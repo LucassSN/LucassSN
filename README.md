@@ -1,13 +1,24 @@
-# 💫 About Me:
-### Hi, i am Lucas!👋
-- 💻 Working in Solutions HR Systems<br>
-- 🎓 Degree in computer science
+<h1 align="center">Hello World, I'm Lucas</h1>
 
+<p align="center">
+  Driven by logic, curiosity, and a love for implementing efficient systems. I look at technology as a tool to solve real-world problems, always exploring new areas where automation and smart logic can make an impact.
+</p>
 
-## 🌐 Socials:
-<div> 
-  <a href="https://www.linkedin.com/in/lucas-souza-nascimento-0b38981aa"><img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="Linkedin" height="45"></a>
-</div>
+<p align="center">
+  <strong>🛠️ Core Focus:</strong> System efficiency, problem-solving, and process optimization. <br />
+  <strong>📈 Growth Mindset:</strong> Always adapting, learning, and looking for fresh fields to apply my technical and creative skills. <br />
+  <strong>🧩 Approach:</strong> Finding the most elegant and reliable way to connect pieces and build functional solutions.
+</p>
+
+<p align="center">---</p>
+
+<h3 align= "center">🌐 Socials:</h3>
+
+<p align="center">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <h2 align="center">💻 Tech Stack</h2>
 

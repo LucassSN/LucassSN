@@ -4,17 +4,20 @@
 
 <h1 align="center">Hello World, I'm Lucas</h1>
 
-<p align="center">
+<img src="https://plus.unsplash.com/premium_photo-1678566111481-8e275550b700?q=80&w=687&auto=format&fit=crop&sat=-100" width="200" align="right" alt="Coding Setup" />
+
+<p>
   Driven by logic, curiosity, and a love for implementing efficient systems. I look at technology as a tool to solve real-world problems, always exploring new areas where automation and smart logic can make an impact.
 </p>
 
-<p align="center">
+<p>
   <strong>🛠️ Core Focus:</strong> System efficiency, problem-solving, and process optimization. <br />
   <strong>📈 Growth Mindset:</strong> Always adapting, learning, and looking for fresh fields to apply my technical and creative skills. <br />
   <strong>🧩 Approach:</strong> Finding the most elegant and reliable way to connect pieces and build functional solutions.
 </p>
 
-<p align="center">---</p>
+<br clear="both" />
+
 
 <h3 align= "center">🌐 Socials:</h3>
 
@@ -24,7 +27,7 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
